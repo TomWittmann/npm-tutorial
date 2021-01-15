@@ -1,0 +1,1 @@
+This is a practice application used to get familiar with npm.

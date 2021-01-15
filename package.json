@@ -1,14 +1,23 @@
 {
   "name": "@tomwittmann/npm-tutorial",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "This is a practice application used to get familiar with npm.",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomWittmann/npm-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TomWittmann/npm-tutorial/issues"
+  },
+  "homepage": "https://github.com/TomWittmann/npm-tutorial#readme"
 }
